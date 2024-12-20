@@ -12,4 +12,7 @@ Our goal is to provide a versatile reference that includes SQL syntax for multip
 We believe in the power of community and free education. We invite everyone to collaborate on this course, contributing to its growth and ensuring that it remains a valuable resource for all. Together, we can build a strong foundation of SQL knowledge and support each other in our learning journeys.
 
 ## Table of Contents
-1. [**Oracle SQL Cheatsheet**](Oracle-SQL.md)
+1. [**Oracle SQL Cheatsheet**](Oracle-SQL-Cheatsheet.md)
+2. [**MySql Cheatsheet**](MySQL-Cheatsheet.md)
+3. [**Pyspark SQL Cheatsheet**](Pyspark-sql-cheatsheet.md)
+4. [**Postgre DQL Cheatsheet**](PostgreSQL-Cheatsheet.md)
