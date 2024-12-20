@@ -1,3 +1,13 @@
+# Course Introduction
+So happy to see you here! Welcome to the New World of SQL, the only language to speak with relational data. Before we start any of the practices or courses, you should have your prerequisites ready. Here are the prerequisites:
+
+- **One Computer:** Ensure you have a computer available.
+- **Oracle Database:** Either a local database or a cloud database.
+- **SQL Developer:** Make sure SQL Developer is installed on your machine.
+- **Database Connection:** Connect SQL Developer to the database before you start.<BR>
+<BR>Note: I need everyone utilizing this particular file or course to please collaborate and raise your pull requests to complete the above activities. Once you are ready, we can start with the course content below.
+
+## Lets Begin..!<BR> ##
 **Fetch all Data:**
 ```sql
 SELECT * FROM departments
