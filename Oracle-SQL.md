@@ -4,7 +4,8 @@ So happy to see you here! Welcome to the New World of SQL, the only language to 
 - **One Computer:** Ensure you have a computer available.
 - **Oracle Database:** Either a local database or a cloud database.
 - **SQL Developer:** Make sure SQL Developer is installed on your machine.
-- **Database Connection:** Connect SQL Developer to the database before you start.<BR>
+- **Database Connection:** Connect SQL Developer to the database before you start.
+- **Table Creation :** Make sure creating below tables before start the course.<BR>
 <BR>Note: I need everyone utilizing this particular file or course to please collaborate and raise your pull requests to complete the above activities. Once you are ready, we can start with the course content below.
 
 ## Lets Begin..!<BR> ##
