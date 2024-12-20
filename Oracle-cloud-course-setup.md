@@ -1,0 +1,2 @@
+# Agenda
+Please follow the steps below to create an Oracle Autonomous Database and connect it with your SQL file to start your Oracle course. Note that this file will be kept blank for now. I would like to know if someone can complete this activity. Kindly add the necessary steps here. For the time being, it is not necessary to complete all the steps. Just add the steps that need to be done, and from there, we will create a task for someone to complete it. <BR>
