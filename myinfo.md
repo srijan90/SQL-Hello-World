@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✨ I am core developer at any point in time even one day i become a CTO of any company <br>📚 I'm currently learning Streamlit,Flask and testing ollama models<br>🎯 Goals: Create a FOSS regional community <br>🎲 Fun fact: Good dancer but not now.<br>🤔 I love exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - dataqubitx@gmail.com<br>😄 Pronouns: He/His<br><br></p>
+<p align="left">✨ I am core developer at any point in time even one day i become a CTO of any company <br>📚 I'm currently learning Streamlit,Flask and testing ollama models<br>🎯 Goals: Create a FOSS regional community <br>🎲 Fun fact: Good dancer but not now.<br>🤔 I love exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - dataqubitx@gmail.com/ sree.tup@gmail.com<br>😄 Pronouns: He/His</p>
 
 ###
 
